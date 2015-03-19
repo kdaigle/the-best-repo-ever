@@ -1,3 +1,3 @@
 # the-best-repo-ever
 
-Wow, that's fancy.
+Wow, that's fancy. :sparkles:
